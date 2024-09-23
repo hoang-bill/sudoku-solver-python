@@ -36,3 +36,9 @@ if __name__ == "__main__":
     s = Solver()
     s.solveBoard(board)
     board.print()
+```
+Replace 'tests/your-puzzle.csv' with the path to your CSV file.
+
+3. Run the script:
+   `python sudoku-solver.py`
+   The script will load the specified Sudoku puzzle, solve it, and print the solved board in the command-line interface.
