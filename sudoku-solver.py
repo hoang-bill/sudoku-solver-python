@@ -214,7 +214,7 @@ class Solver:
 
 if __name__ == "__main__":
     # change this to the input file that you'd like to test
-    board = Board('/Users/billhoang/Library/CloudStorage/OneDrive-IndianaUniversity/FA\'24/CSCI-C 351 - Intro to Artificial Intelligence/Assignment/2P/tests/test-3-hard/10.csv')
+    board = Board('tests/example.csv')
     s = Solver()
     s.solveBoard(board)
     board.print()
