@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# B351/Q351 Fall 2024
-# Do not share these assignments or their solutions outside of this class.
 
 import csv
 import itertools
