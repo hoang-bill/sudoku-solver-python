@@ -19,8 +19,10 @@ Sudoku is a popular puzzle game where the objective is to fill a 9x9 grid with d
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/sudoku-solver.git
-2. Navigate to the project directory: cd sudoku-solver
+1. Clone the repository:
+   `git clone https://github.com/your-username/sudoku-solver-python.git`
+3. Navigate to the project directory:
+   `cd sudoku-solver`
 
 ## Usage
 
